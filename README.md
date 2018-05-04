@@ -19,8 +19,8 @@ This repository is organized as follows:
 - ana_cervix.R: main program (load and split the data, fit the model, prediction of excess hazard with CI, and prediction of net survival
 - Ana_cervix.lis: Results from ana_cervix.R
 - CI_delta_NS.R: prediction of net survival with CI (using Delta method)
-- CI_delta_Standardized_NS.R	prediction of standardized net survival with CI
-- FigureS11_Trends_Std_NS.R to plot the figureS11
+- CI_delta_Standardized_NS.R: prediction of standardized net survival with CI
+- FigureS11_Trends_Std_NS.R:  plots the figureS11
 - FigureS12_Trends_NS_by_Age.R to plot the figureS12
 - FigureS13_ExcessHazard.R to plot the figureS13
 - /res/: figureS11, figureS12, figureS13 in eps format
