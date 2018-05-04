@@ -4,7 +4,8 @@ This repository contains the R-code to perform the analysis of the case study (a
 
 Flexible and structured survival model for a simultaneous estimation of non-linear and non-proportional effects and complex interactions between continuous variables: performance of this multidimensional penalized spline approach in net survival trend analysis.
 
-Authors: Laurent Remontet, Zoé Uhry, Nadine Bossard, Jean Iwaz, Aurélien Belot, Coraline Danieli, Hadrien Charvat, Laurent Roche and the CENSUR Working Survival Group, Statistical Methods in Medical Research,2018.
+Authors: Laurent Remontet, Zoé Uhry, Nadine Bossard, Jean Iwaz, Aurélien Belot, Coraline Danieli, Hadrien Charvat, Laurent Roche and the CENSUR Working Survival Group
+Statistical Methods in Medical Research,2018 (in revision).
 
 
 However:
