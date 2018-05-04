@@ -32,8 +32,8 @@ This repository is organized as follows:
 (Click the 'Clone or download' icon to download all files as a .zip file)
 
 
-
-
+ 
+ 
 The following versions of R and packages were used :
 - R version 3.1.1 (2014-07-10)    Platform: x86_64-w64-mingw32/x64 (64-bit)
 - attached base packages:   [1] splines stats graphics grDevices utils datasets  methods base     
