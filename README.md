@@ -16,9 +16,10 @@ However:
 -	For simplicity the PH model is not presented
 
 This repository is organized as follows:
+- ana_cervix.R:  MAIN PROGRAM (load and split the data, fit the model, prediction of excess hazard with CI, and prediction of net survival)
+
 - /data/:  cervix dataset and expected hazard of the general population
 - /function/:  Two functions to split the data and the modified link function
-- ana_cervix.R:  main program (load and split the data, fit the model, prediction of excess hazard with CI, and prediction of net survival
 - Ana_cervix.lis:  Results from ana_cervix.R
 - CI_delta_NS.R:  prediction of net survival with CI (using Delta method)
 - CI_delta_Standardized_NS.R:  prediction of standardized net survival with CI
