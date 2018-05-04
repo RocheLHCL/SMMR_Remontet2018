@@ -6,7 +6,7 @@ Flexible and structured survival model for a simultaneous estimation of non-line
 
 Authors: Laurent Remontet, Zoé Uhry, Nadine Bossard, Jean Iwaz, Aurélien Belot, Coraline Danieli, Hadrien Charvat, Laurent Roche and the CENSUR Working Survival Group
 
-Statistical Methods in Medical Research,2018 (in revision).
+Submitted in: Statistical Methods in Medical Research, 2018 (in revision).
 
 
 However:
