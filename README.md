@@ -27,14 +27,20 @@ This repository is organized as follows:
 
 
 The following versions were used :
-R version 3.1.1 (2014-07-10)
-Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R version 3.1.1 (2014-07-10)    Platform: x86_64-w64-mingw32/x64 (64-bit)
+
 
 attached base packages:
-[1] splines   stats     graphics  grDevices utils     datasets  methods   base     
+
+[1] splines stats graphics grDevices utils datasets  methods base     
+
 
 other attached packages:
+
 [1] relsurv_2.0-9   date_1.2-34     survival_2.37-7 statmod_1.4.21  mgcv_1.8-3      nlme_3.1-117   
 
+
 loaded via a namespace (and not attached):
+
 [1] grid_3.1.1      lattice_0.20-29 Matrix_1.2-6    tools_3.1.1    
