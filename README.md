@@ -11,7 +11,7 @@ Authors: Laurent Remontet, Zoé Uhry, Nadine Bossard, Jean Iwaz, Aurélien Belot
 Submitted in: Statistical Methods in Medical Research, 2018 (in revision).
 
 
-Please see the 'readme_detailed.pdf' file for more details about the contents of this repository.
+Please see the 'readme.pdf' file for more details about the contents of this repository.
 
 (NOTE: click the 'Clone or download' icon to download all files as a .zip file)
 
