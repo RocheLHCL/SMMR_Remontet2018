@@ -175,7 +175,7 @@ sn.PP.agecl<-data.frame(
 	anneefin=rep(rep(lperfin,each=length(lagecl)),length(ltemps)),
 	agecl=rep(lagecl,length(ltemps)*length(lperdeb)))
 
-sn.PP.agecl<-merge(sn.PP.agecl,icss[icss$typepop==2,c("ageclasse","wstd")],by.x="agecl",by.y="ageclasse")
+# sn.PP.agecl<-merge(sn.PP.agecl,icss[icss$typepop==2,c("ageclasse","wstd")],by.x="agecl",by.y="ageclasse")
 sn.PP.agecl$sn<-NA
 sn.PP.agecl$var.sn<-NA
 sn.PP.agecl<-sn.PP.agecl[order(sn.PP.agecl$temps,sn.PP.agecl$anneedeb,sn.PP.agecl$agecl),]
