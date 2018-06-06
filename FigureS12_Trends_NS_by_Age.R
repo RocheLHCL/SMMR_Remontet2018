@@ -158,13 +158,13 @@ load(paste(my.rep,"data/ExpectedHazard_ratetable.RData",sep=""))
 # print(attributes(exp.hazard.rt))
 
 
-# Non-parametrics Std. NS estimates at time t=1 and 5 years,
+# Non-parametrics NS estimates at time t=1 and 5 years,
 # by period of diagnosis (4 periods: [1989,1994), [1994,1999), [1999,2005), [2005,2011)),
 # and by age-class (5 age-classes: c("[15;45[","[45;55[","[55;65[","[65;75[","[75;++["))
 ltemps<-c(1,5)
 lperdeb<-c(1989,1994,1999,2005)
 lperfin<-c(1994,1999,2005,2011)
-# NS will first be estimated by age-class, the standardize NS will then be the weighted sum of these age-class estimates (using ICSS weights)
+
 lagecl<-c("[15;45[","[45;55[","[55;65[","[65;75[","[75;++[")
 lagedeb<-c(0,45,55,65,75)
 lagefin<-c(45,55,65,75,200)
